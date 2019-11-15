@@ -1,15 +1,15 @@
 //
-//  fibonacciListTests.swift
-//  fibonacciListTests
+//  fibTests.swift
+//  fibTests
 //
-//  Created by Nepta on 15/11/2019.
-//  Copyright © 2019 Nepta. All rights reserved.
+//  Created by nepta on 15/11/2019.
+//  Copyright © 2019 nepta. All rights reserved.
 //
 
 import XCTest
-@testable import fibonacciList
+@testable import fib
 
-class fibonacciListTests: XCTestCase {
+class fibTests: XCTestCase {
 
     override func setUp() {
         // Put setup code here. This method is called before the invocation of each test method in the class.

@@ -1,14 +1,14 @@
 //
-//  fibonacciListUITests.swift
-//  fibonacciListUITests
+//  fibUITests.swift
+//  fibUITests
 //
-//  Created by Nepta on 15/11/2019.
-//  Copyright © 2019 Nepta. All rights reserved.
+//  Created by nepta on 15/11/2019.
+//  Copyright © 2019 nepta. All rights reserved.
 //
 
 import XCTest
 
-class fibonacciListUITests: XCTestCase {
+class fibUITests: XCTestCase {
 
     override func setUp() {
         // Put setup code here. This method is called before the invocation of each test method in the class.

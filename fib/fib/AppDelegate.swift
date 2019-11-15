@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  fibonacciList
+//  fib
 //
-//  Created by Nepta on 15/11/2019.
-//  Copyright © 2019 Nepta. All rights reserved.
+//  Created by nepta on 15/11/2019.
+//  Copyright © 2019 nepta. All rights reserved.
 //
 
 import UIKit
